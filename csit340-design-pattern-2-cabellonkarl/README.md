@@ -27,6 +27,9 @@ Refactor the existing code of the previous developer to make it flexible and .
 
 ### UML Diagram for the Refactored Version
 `<insert UML here>`
+![Progam drawio](https://user-images.githubusercontent.com/116715535/202866097-4528fbcb-2882-4eab-8cbb-029958f74332.png)
 ### Explanation
 Explain here what design patterns did you use, why did you use it, how does it solve the problem, etc.
+
+The design patterns I used is first is the Decorator Pattern to simply wrap the Invoice too simple wrap and add different attributes toward invoice its to shorten and dynamically use the attributes inside. So makause nako og with Header and Footer Together . Another design pattern I used is bridge PAttern for the Display Behavior I called it inside the Invoice its to actually separate the class nga DisplayBehavior but still connected dyapun siya to the Invoice that is why I used Bridge so dli siya musamok sa what is inside the Invoice. Another One is Abstract Factory Method which ako giuse sa Client so I can call the other classes Invoice and Cipher para mas mo clean akong InvoiceProcessor since I can call classes nga iya gi use like Invoice and Cipher I called it.
 
