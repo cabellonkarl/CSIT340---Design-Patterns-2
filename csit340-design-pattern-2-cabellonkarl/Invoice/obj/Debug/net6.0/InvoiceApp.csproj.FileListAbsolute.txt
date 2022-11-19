@@ -1,0 +1,15 @@
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\bin\Debug\net6.0\InvoiceApp.exe
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\bin\Debug\net6.0\InvoiceApp.deps.json
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\bin\Debug\net6.0\InvoiceApp.runtimeconfig.json
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\bin\Debug\net6.0\InvoiceApp.dll
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\bin\Debug\net6.0\InvoiceApp.pdb
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.csproj.AssemblyReference.cache
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.AssemblyInfoInputs.cache
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.AssemblyInfo.cs
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.csproj.CoreCompileInputs.cache
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.dll
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\refint\InvoiceApp.dll
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.pdb
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\InvoiceApp.genruntimeconfig.cache
+C:\Users\kash\Downloads\cash\files\csit340-design-pattern-2-cabellonkarl-main\csit340-design-pattern-2-cabellonkarl\Invoice\obj\Debug\net6.0\ref\InvoiceApp.dll
